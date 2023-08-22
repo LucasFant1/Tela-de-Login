@@ -59,7 +59,7 @@ body{
 {
     top: -20px;
     left: 0;
-    color: #03e9f4;
+    color: #9808eb;
     font-size: 12px;
 }
 
@@ -73,7 +73,7 @@ body{
     position: relative;
     display: inline-block;
     padding: 12px 20px;
-    color: #03e9f4;
+    color: #9808eb;
     text-decoration: none;
     font-size: 13px;
     text-transform: uppercase;
@@ -85,7 +85,7 @@ body{
 }
 
 .btn:hover{
-    background: #03e9f4;
+    background: #9808eb;
     border-radius: 5px;
     color: black;
 }
@@ -100,7 +100,7 @@ body{
     left: -100%;
     width: 100%;
     height: 4px;
-    background: linear-gradient(90deg, transparent, #03e9f4);
+    background: linear-gradient(90deg, transparent, #9808eb);
     animation: btn1 1s linear infinite;
 }
 
@@ -119,7 +119,7 @@ body{
     right: 0;
     width: 4px;
     height: 100%;
-    background: linear-gradient(180deg, transparent, #03e9f4);
+    background: linear-gradient(180deg, transparent, #9808eb);
     animation: btn2 1s linear infinite;
     animation-delay: .20s;
 }
@@ -139,7 +139,7 @@ body{
     right: -100%;
     width: 100%;
     height: 4px;
-    background: linear-gradient(270deg, transparent, #03e9f4);
+    background: linear-gradient(270deg, transparent, #9808eb);
     animation: btn3 1s linear infinite;
     animation-delay: .45s;
 }
@@ -159,7 +159,7 @@ body{
     left: 0;
     width: 4px;
     height: 100%;
-    background: linear-gradient(26deg, transparent, #03e9f4);
+    background: linear-gradient(26deg, transparent, #9808eb);
     animation: btn4 1s linear infinite;
     animation-delay: .70s;
 }
